@@ -1,0 +1,40 @@
+#EXTM3U
+
+#EXTINF:-1, Chill FM
+https://edge126.rcs-rds.ro/profm/chillfm.mp3
+
+#EXTINF:-1, Dance FM
+https://edge126.rcs-rds.ro/profm/dancefm.mp3
+
+#EXTINF:-1, ProFM
+https://edge76.rcs-rds.ro/profm/profm.mp3
+
+#EXTINF:-1, Digi FM
+https://edge76.rcs-rds.ro/digifm/digifm.mp3
+
+#EXTINF:-1, Kiss FM
+https://live.kissfm.ro/kissfm.aacp
+
+#EXTINF:-1, Rock FM
+https://live.rockfm.ro/rockfm.aacp
+
+#EXTINF:-1, Radio ZU
+https://stream.rcast.net/68949
+
+#EXTINF:-1, Magic FM
+https://live.magicfm.ro/magicfm.aacp
+
+#EXTINF:-1, Nostalgia FM
+https://live.radionostalgia.ro:8443/nostalgia.aac
+
+#EXTINF:-1, Virgin Radio
+https://astreaming.virginradio.ro:8443/VirginRadio_aac
+
+#EXTINF:-1, Europa FM
+https://astreaming.europafm.ro:8443/EuropaFM_aac
+
+#EXTINF:-1, Radio Impuls
+https://stream.radio-impuls.ro/stream
+
+#EXTINF:-1, Extravaganza Radio
+https://s3.radio.co/s1492c0564/listen
