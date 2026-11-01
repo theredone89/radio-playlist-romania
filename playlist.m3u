@@ -38,3 +38,45 @@ https://stream.radio-impuls.ro/stream
 
 #EXTINF:-1, Extravaganza Radio
 https://s3.radio.co/s1492c0564/listen
+
+#EXTINF:-1, Radio Romania 3Net
+http://media.3netmedia.ro:8000/Live128
+
+#EXTINF:-1, Urban FM
+https://urbanfm.ro:8777/live
+
+#EXTINF:-1, Play Urban
+https://live.playradio.org:8443/UrbanHD
+
+#EXTINF:-1, Cafe Del Mar Calm
+https://streamer.radio.co/sb748f24ad/listen
+
+#EXTINF:-1, Cafe Del Mar Chill
+https://streams.radio.co/se1a320b47/listen
+
+#EXTINF:-1, Cafe Del Mar House 
+https://s4.radio.co/seeae9c220/listen
+
+#EXTINF:-1, Vanilla Deep
+http://stream.vanillaradio.com:8012/stream
+
+#EXTINF:-1, Vanilla Smooth
+http://smooth.vanillaradio.com:8032/live
+
+#EXTINF:-1, Vanilla Fresh
+http://fresh.vanillaradio.com:8028/live
+
+#EXTINF:-1, Radio Deep Romania
+https://radiodeep.ro/deep.m3u
+
+#EXTINF:-1, One FM Dance Station
+https://www.onefm.ro/listen.pls
+
+#EXTINF:-1, Radio Pro-B Clubbing
+https://live.radioprob.ro/8888/live
+
+#EXTINF:-1, Jazz FM Romania
+https://s4.radio.co/s1e25bf273/listen
+
+#EXTINF:-1, LoFi Girl
+https://boxradio-edge-10.streamafrica.net/lofi
