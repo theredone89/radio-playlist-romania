@@ -1,97 +1,97 @@
 #EXTM3U
 
-#EXTINF:-1, Chill FM
+#EXTINF:-1 group-title="Chill", Chill FM
 https://edge126.rcs-rds.ro/profm/chillfm.mp3
 
-#EXTINF:-1, Dance FM
+#EXTINF:-1 group-title="Electronic", Dance FM
 https://edge126.rcs-rds.ro/profm/dancefm.mp3
 
-#EXTINF:-1, ProFM
+#EXTINF:-1 group-title="Pop", ProFM
 https://edge76.rcs-rds.ro/profm/profm.mp3
 
-#EXTINF:-1, Digi FM
+#EXTINF:-1 group-title="Pop", Digi FM
 https://edge76.rcs-rds.ro/digifm/digifm.mp3
 
-#EXTINF:-1, Kiss FM
+#EXTINF:-1 group-title="Pop", Kiss FM
 https://live.kissfm.ro/kissfm.aacp
 
-#EXTINF:-1, Rock FM
+#EXTINF:-1 group-title="Rock", Rock FM
 https://live.rockfm.ro/rockfm.aacp
 
-#EXTINF:-1, Radio ZU
+#EXTINF:-1 group-title="Pop", Radio ZU
 https://stream.rcast.net/68949
 
-#EXTINF:-1, Magic FM
+#EXTINF:-1 group-title="Oldies", Magic FM
 https://live.magicfm.ro/magicfm.aacp
 
-#EXTINF:-1, DiscoMix
+#EXTINF:-1 group-title="Oldies", DiscoMix
 https://play.discomix.ro/8002/stream
 
-#EXTINF:-1, Nostalgia FM
+#EXTINF:-1 group-title="Oldies", Nostalgia FM
 https://live.radionostalgia.ro:8443/nostalgia.aac
 
-#EXTINF:-1, Virgin Radio
+#EXTINF:-1 group-title="Pop", Virgin Radio
 https://astreaming.virginradio.ro:8443/VirginRadio_aac
 
-#EXTINF:-1, Europa FM
+#EXTINF:-1 group-title="Pop", Europa FM
 https://astreaming.europafm.ro:8443/EuropaFM_aac
 
-#EXTINF:-1, Radio Impuls
+#EXTINF:-1 group-title="Pop", Radio Impuls
 https://stream.radio-impuls.ro/stream
 
-#EXTINF:-1, One World Radio
+#EXTINF:-1 group-title="Electronic", One World Radio
 https://28563.live.streamtheworld.com/OWR_INTERNATIONAL_SC 
 
-#EXTINF:-1, Extravaganza Radio
+#EXTINF:-1 group-title="Electronic", Extravaganza Radio
 https://s3.radio.co/s1492c0564/listen
 
-#EXTINF:-1, Radio Romania 3Net
+#EXTINF:-1 group-title="Pop", Radio Romania 3Net
 http://media.3netmedia.ro:8000/Live128
 
-#EXTINF:-1, Urban FM
+#EXTINF:-1 group-title="Hip Hop", Urban FM
 https://urbanfm.ro:8777/live
 
-#EXTINF:-1, Play Urban
+#EXTINF:-1 group-title="Hip Hop", Play Urban
 https://live.playradio.org:8443/UrbanHD
 
-#EXTINF:-1, Cafe Del Mar Calm
+#EXTINF:-1 group-title="Chill", Cafe Del Mar Calm
 https://streamer.radio.co/sb748f24ad/listen
 
-#EXTINF:-1, Cafe Del Mar Chill
+#EXTINF:-1 group-title="Chill", Cafe Del Mar Chill
 https://streams.radio.co/se1a320b47/listen
 
-#EXTINF:-1, Cafe Del Mar House 
+#EXTINF:-1 group-title="Electronic", Cafe Del Mar House 
 https://s4.radio.co/seeae9c220/listen
 
-#EXTINF:-1, Vanilla Deep
+#EXTINF:-1 group-title="Electronic", Vanilla Deep
 http://stream.vanillaradio.com:8012/stream
 
-#EXTINF:-1, Vanilla Smooth
+#EXTINF:-1 group-title="Chill", Vanilla Smooth
 http://smooth.vanillaradio.com:8032/live
 
-#EXTINF:-1, Vanilla Fresh
+#EXTINF:-1 group-title="Electronic", Vanilla Fresh
 http://fresh.vanillaradio.com:8028/live
 
-#EXTINF:-1, Radio Deep Romania
+#EXTINF:-1 group-title="Electronic", Radio Deep Romania
 http://n0f.radiojar.com:80/8q8770pucfhvv
 
-#EXTINF:-1, One FM Dance Station
+#EXTINF:-1 group-title="Electronic", One FM Dance Station
 http://live.onefm.ro/onefm.aacp
 
-#EXTINF:-1, Radio Pro-B Clubbing
+#EXTINF:-1 group-title="Electronic", Radio Pro-B Clubbing
 https://live.radioprob.ro/8888/live
 
-#EXTINF:-1, Jazz FM Romania
+#EXTINF:-1 group-title="Jazz", Jazz FM Romania
 https://s4.radio.co/s1e25bf273/listen
 
-#EXTINF:-1, Pescobar Radio
+#EXTINF:-1 group-title="Electronic", Pescobar Radio
 https://listen.radioking.com/radio/701141/stream/766385
 
-#EXTINF:-1, LoFi Girl
+#EXTINF:-1 group-title="Chill", LoFi Girl
 https://boxradio-edge-10.streamafrica.net/lofi
 
-#EXTINF:-1, Ireland’s Christmas Station
+#EXTINF:-1 group-title="Christmas", Ireland’s Christmas Station
 https://das-edge92-sa24-lon02.cdnstream.com/2547_128.mp3
 
-#EXTINF:-1, Christmas Smooth Jazz
+#EXTINF:-1 group-title="Christmas", Christmas Smooth Jazz
 https://listen.181fm.com/181-xsmooth_128k.mp3
