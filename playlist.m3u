@@ -24,6 +24,9 @@ https://stream.rcast.net/68949
 #EXTINF:-1, Magic FM
 https://live.magicfm.ro/magicfm.aacp
 
+#EXTINF:-1, DiscoMix
+https://play.discomix.ro/8002/stream
+
 #EXTINF:-1, Nostalgia FM
 https://live.radionostalgia.ro:8443/nostalgia.aac
 
@@ -35,6 +38,12 @@ https://astreaming.europafm.ro:8443/EuropaFM_aac
 
 #EXTINF:-1, Radio Impuls
 https://stream.radio-impuls.ro/stream
+
+#EXTINF:-1, Deep Funky Radio
+https://sonic2-rbx.cloud-center.ro:8026/listen.pls
+
+#EXTINF:-1, One World Radio
+https://28563.live.streamtheworld.com/OWR_INTERNATIONAL_SC 
 
 #EXTINF:-1, Extravaganza Radio
 https://s3.radio.co/s1492c0564/listen
@@ -78,5 +87,14 @@ https://live.radioprob.ro/8888/live
 #EXTINF:-1, Jazz FM Romania
 https://s4.radio.co/s1e25bf273/listen
 
+#EXTINF:-1, Pescobar Radio
+https://listen.radioking.com/radio/701141/stream/766385
+
 #EXTINF:-1, LoFi Girl
 https://boxradio-edge-10.streamafrica.net/lofi
+
+#EXTINF:-1, Ireland’s Christmas Station
+https://das-edge92-sa24-lon02.cdnstream.com/2547_128.mp3
+
+#EXTINF:-1, 181.fm - Christmas Smooth Jazz
+https://listen.181fm.com/181-xsmooth_128k.mp3
